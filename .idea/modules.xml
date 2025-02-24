@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContadoBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContadoBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projetos-Dio.iml" filepath="$PROJECT_DIR$/.idea/Projetos-Dio.iml" />
+    </modules>
+  </component>
+</project>
